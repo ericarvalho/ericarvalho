@@ -1,6 +1,6 @@
-## Olá, meu nome é Erica e sou estudante de progamação Front-end!
+## Olá, meu nome é Erica, seja bem-vindo(a) ao meu perfil! 💜
 
-## Seja bem-vindo(a) ao meu perfil! 💜
+## 
 
 <div>
   <a href="https://github.com/ericarvalho">
